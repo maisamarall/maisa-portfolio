@@ -145,8 +145,6 @@ cd maisa-portfolio
 
 Configure as variáveis de ambiente conforme o `docker-compose.yml` e o arquivo `prisma.config.ts`.
 
-**Importante:** utilize credenciais próprias de desenvolvimento. Não publique arquivos `.env` com senhas reais.
-
 Inicie o PostgreSQL:
 
 ```bash
@@ -207,4 +205,4 @@ Estou aberta a oportunidades profissionais, projetos e conexões com pessoas da 
 
 *Desenvolvido por Maisa Amaral.*
 
-**Se este projeto chamou sua atenção, fique à vontade para explorar o código e acompanhar sua evolução!** 
+**Se este projeto chamou sua atenção, fique à vontade para explorar o código e acompanhar minha evolução!** 
